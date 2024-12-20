@@ -1,0 +1,6 @@
+@Aon_Test_HostAddress = http://localhost:5241
+
+GET {{Aon_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
